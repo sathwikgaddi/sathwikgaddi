@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathwik Gaddi</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 👨‍💻 Get to know more about me at [sathwikgaddi.github.io/portfolio](sathwikgaddi.github.io/portfolio)
+- 👨‍💻 Explore - [ByteSizedCorp - An upcoming Developers Community](https://github.com/ByteSizedCorp)
 
 - 📫 How to reach me **gaddisathwik@gmail.com**
 
